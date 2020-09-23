@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="2"
+    android:rowCount="2">
+
+    <ImageButton
+        android:id="@+id/muscle"
+        android:layout_rowWeight="1"
+        android:layout_columnWeight="1"
+        android:background="#F44336"
+        android:gravity="center"
+        android:src="@drawable/muscle" />
+
+    <ImageButton
+        android:id="@+id/brain"
+        android:layout_rowWeight="1"
+        android:layout_columnWeight="1"
+        android:background="#03A8CC"
+        android:gravity="center"
+        android:src="@drawable/brain" />
+
+    <ImageButton
+        android:id="@+id/heart"
+        android:layout_rowWeight="1"
+        android:layout_columnWeight="1"
+        android:background="#037E99"
+        android:gravity="center"
+        android:src="@drawable/heart" />
+
+    <ImageButton
+        android:id="@+id/settings"
+        android:layout_rowWeight="1"
+        android:layout_columnWeight="1"
+        android:background="#1EFFAB"
+        android:gravity="center"
+        android:src="@drawable/settings" />
+
+</GridLayout>

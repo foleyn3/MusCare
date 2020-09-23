@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_settings" type="id" />
+    <item name="action_scan" type="id" />
+    <item name="menu_stop" type="id" />
+    <item name="device_data" type="id" />
+</resources>

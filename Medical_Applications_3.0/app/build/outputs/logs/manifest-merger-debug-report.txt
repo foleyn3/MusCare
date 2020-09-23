@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cadf69e67c871c158d0ed8fb33525099/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/763045dd135297f0fdee8b96200b83cd/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/4449fbf1c02abeb85fffd382d3ee9b4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/aa553a0cb4de6b9d00f4cda89624f015/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5f864d4ce718f4a4f0733ff22be4538f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/304fc74b60df096b86bec8a50c21e902/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/77aa64991b248570057213d54d91e13b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5143556f800afcad3b13d3ed7c0e418d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f519b586e9871d532ffec0409e39f0da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/cca309ae68c2ca1e7ce6445725fbc576/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9f171b96fd910ee27cb854bad1dee138/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/432bbb6c12eb699c679c11c7480847b8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0b094b80501f97a427c5f607069eb3fa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e63e9becabb5831c0f4ad242d95f7438/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:4:5-55
+		INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:2:1-57:12
+		INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:2:1-57:12
+		INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:6:5-8:35
+	android:required
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:8:9-32
+	android:name
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:7:9-53
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:10:5-12:38
+	android:maxSdkVersion
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:12:9-35
+	android:name
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:11:9-58
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:13:5-15:38
+	android:maxSdkVersion
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:15:9-35
+	android:name
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:14:9-52
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:16:22-78
+application
+ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:18:5-55:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/763045dd135297f0fdee8b96200b83cd/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/763045dd135297f0fdee8b96200b83cd/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:21:9-41
+	tools:ignore
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:25:9-48
+	android:roundIcon
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.android.medical_applications.MainActivity
+ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:27:9-35:20
+	android:theme
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:29:13-63
+	android:name
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:33:27-74
+activity#com.example.android.medical_applications.Muscle
+ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:37:9-40:58
+	android:parentActivityName
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:40:13-55
+	android:label
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:39:13-35
+	android:name
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:38:13-35
+activity#com.example.android.medical_applications.Brain
+ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:41:9-44:58
+	android:parentActivityName
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:44:13-55
+	android:label
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:43:13-34
+	android:name
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:42:13-34
+activity#com.example.android.medical_applications.Heart
+ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:45:9-48:58
+	android:parentActivityName
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:48:13-55
+	android:label
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:47:13-34
+	android:name
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:46:13-34
+activity#com.example.android.medical_applications.Settings
+ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:50:9-53:58
+	android:parentActivityName
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:53:13-55
+	android:label
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml:51:13-37
+uses-sdk
+INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cadf69e67c871c158d0ed8fb33525099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cadf69e67c871c158d0ed8fb33525099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/763045dd135297f0fdee8b96200b83cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/763045dd135297f0fdee8b96200b83cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/4449fbf1c02abeb85fffd382d3ee9b4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/4449fbf1c02abeb85fffd382d3ee9b4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/aa553a0cb4de6b9d00f4cda89624f015/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/aa553a0cb4de6b9d00f4cda89624f015/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5f864d4ce718f4a4f0733ff22be4538f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5f864d4ce718f4a4f0733ff22be4538f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/304fc74b60df096b86bec8a50c21e902/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/304fc74b60df096b86bec8a50c21e902/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/77aa64991b248570057213d54d91e13b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/77aa64991b248570057213d54d91e13b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5143556f800afcad3b13d3ed7c0e418d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5143556f800afcad3b13d3ed7c0e418d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f519b586e9871d532ffec0409e39f0da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f519b586e9871d532ffec0409e39f0da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/cca309ae68c2ca1e7ce6445725fbc576/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/cca309ae68c2ca1e7ce6445725fbc576/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9f171b96fd910ee27cb854bad1dee138/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9f171b96fd910ee27cb854bad1dee138/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/432bbb6c12eb699c679c11c7480847b8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/432bbb6c12eb699c679c11c7480847b8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0b094b80501f97a427c5f607069eb3fa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0b094b80501f97a427c5f607069eb3fa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e63e9becabb5831c0f4ad242d95f7438/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/foleyn2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e63e9becabb5831c0f4ad242d95f7438/AndroidManifest.xml:20:5-44
+INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+		ADDED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/foleyn2/Desktop/dombelec-research_co-op-65a2259b3b8f/Medical_Applications_3.0/app/src/main/AndroidManifest.xml
